@@ -1,6 +1,7 @@
 # Pipeline de Campanhas
 
 ## O que é
+Os dados em `campanhas_bruto.csv` são fictícios, criados para praticar.
 Projeto que pega um CSV de campanhas de marketing com dados repetidos e
 com orçamento e conversões faltando, e transforma tudo em dados limpos,
 estruturados e salvos num banco de dados (meu_banco.db).
